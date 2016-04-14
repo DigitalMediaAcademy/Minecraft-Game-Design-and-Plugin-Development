@@ -1,5 +1,7 @@
 # Minecraft-Game-Design-and-Plugin-Development-2016
 ##Course assets
+Link to files: https://drive.google.com/open?id=0Bxz9XlubURkVSGVEWUNhdDZPNlU
+
 ###Minecraft_starting_assets
 A folder that students should use to start their projects in. It contains a few example adventure maps, example resource packs, a default resource pack, an unbuilt spigot server, and plugins needed for that server. These will likely need to be updated in future weeks.
 
